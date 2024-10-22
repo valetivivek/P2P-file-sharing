@@ -1,0 +1,25 @@
+2024-10-22 15:36:55: Peer 1001 is listening on port 6001
+2024-10-22 15:36:58: Peer 1001 received connection from ('127.0.0.1', 58521)
+2024-10-22 15:36:58: Peer 1001 received handshake: P2PFILESHARINGPROJ00000000001002
+2024-10-22 15:36:58: Peer 1001 sent handshake response: P2PFILESHARINGPROJ00000000001001
+2024-10-22 15:37:00: Trying to connect to peer 1002 on localhost:6002
+2024-10-22 15:37:00: Successfully connected to peer 1002
+2024-10-22 15:37:00: Peer 1001 sent handshake: P2PFILESHARINGPROJ00000000001001
+2024-10-22 15:37:00: Peer 1001 received handshake response: P2PFILESHARINGPROJ00000000001002
+2024-10-22 15:37:00: Trying to connect to peer 1003 on localhost:6003
+2024-10-22 15:37:02: Could not connect to peer 1003. Peer might not be running.
+2024-10-22 15:39:43: Peer 1001 is listening on port 6001
+2024-10-22 15:39:46: Peer 1001 received connection from ('127.0.0.1', 58549)
+2024-10-22 15:39:46: Peer 1001 received handshake: P2PFILESHARINGPROJ00000000001002
+2024-10-22 15:39:46: Peer 1001 sent handshake response: P2PFILESHARINGPROJ00000000001001
+2024-10-22 15:39:48: Trying to connect to peer 1002 on localhost:6002
+2024-10-22 15:39:48: Successfully connected to peer 1002
+2024-10-22 15:39:48: Peer 1001 sent handshake: P2PFILESHARINGPROJ00000000001001
+2024-10-22 15:39:48: Peer 1001 received handshake response: P2PFILESHARINGPROJ00000000001002
+2024-10-22 15:39:48: Trying to connect to peer 1003 on localhost:6003
+2024-10-22 15:39:48: Successfully connected to peer 1003
+2024-10-22 15:39:48: Peer 1001 sent handshake: P2PFILESHARINGPROJ00000000001001
+2024-10-22 15:39:48: Peer 1001 received handshake response: P2PFILESHARINGPROJ00000000001003
+2024-10-22 15:39:50: Peer 1001 received connection from ('127.0.0.1', 58553)
+2024-10-22 15:39:50: Peer 1001 received handshake: P2PFILESHARINGPROJ00000000001003
+2024-10-22 15:39:50: Peer 1001 sent handshake response: P2PFILESHARINGPROJ00000000001001
